@@ -1,0 +1,11 @@
+{
+"isLocal":true,
+"server_address":"127.0.0.1",
+"server_port":8000,
+"local_port":26118,
+"local_address":"127.0.0.1",
+"password":"helloworld", 
+"timeout":300,
+"method":"aes-256-cfb",
+"dast_open":false
+}
