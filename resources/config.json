@@ -1,11 +1,10 @@
 {
 "isLocal":true,
-"server_address":"35.229.201.201",
+"server_address":"your-ip",
 "server_port":8000,
 "local_port":26118,
 "local_address":"127.0.0.1",
-"password":"helloworld", 
+"password":"your-passwd", 
 "timeout":300,
-"method":"aes-256-cfb",
-"dast_open":false
+"method":"aes-128-gcm"
 }
