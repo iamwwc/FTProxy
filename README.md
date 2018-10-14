@@ -1,5 +1,6 @@
 # FTProxy
 A Proxy Tool like Shadowsocks
 
-仿写Shadowsocks
-# 其余的各项功能将会在后面添加
+使用Vertx编写的代码工具，参考了Shadowsocks设计
+
+
